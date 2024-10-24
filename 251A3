@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0.1 Safari/605.1.15" version="24.7.17">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0.1 Safari/605.1.15" version="24.8.2">
   <diagram name="Page-1" id="tMrXQVmKebz4x2-cyuEe">
-    <mxGraphModel>
+    <mxGraphModel dx="463" dy="324" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7JaZ4BgrQbddMlAJ4hwJ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7JaZ4BgrQbddMlAJ4hwJ-1" target="7JaZ4BgrQbddMlAJ4hwJ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7JaZ4BgrQbddMlAJ4hwJ-1" value="a thing&amp;nbsp;&lt;div&gt;that is generic&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7JaZ4BgrQbddMlAJ4hwJ-2" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7JaZ4BgrQbddMlAJ4hwJ-4" value="- container which stores all the objects&lt;div&gt;- display function to show the contents of all the documents&lt;div&gt;- a minSimilarity function&lt;/div&gt;&lt;div&gt;-&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="250" width="170" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="7JaZ4BgrQbddMlAJ4hwJ-5" value="&lt;b&gt;container options&lt;/b&gt;&lt;div&gt;- vector&lt;/div&gt;&lt;div&gt;- array&lt;/div&gt;&lt;div&gt;- linkedlist&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
